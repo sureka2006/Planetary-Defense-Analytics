@@ -5,6 +5,3 @@ __pycache__/
 data/raw/
 data/processed/cleaned_data.csv
 data/processed/preprocessed_data.csv
-models/shap_explainer.pkl
-models/shap_explainer_reg.pkl
-models/pha_model.pkl
